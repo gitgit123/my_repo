@@ -10,7 +10,10 @@ namespace Console_app
     {
         static void Main(string[] args)
         {
-
+            int x, y;
+            string s;
+            Console.WriteLine("Ievadi x: "); s = Console.ReadLine(); x = int.Parse(s);
+            Console.WriteLine("Ievadi y: "); s = Console.ReadLine(); y = int.Parse(s);
         }
     }
 }
