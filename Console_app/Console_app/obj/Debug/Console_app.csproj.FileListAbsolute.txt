@@ -2,5 +2,9 @@ c:\users\alexti\documents\visual studio 2012\Projects\Console_app\Console_app\bi
 C:\Git\my_reposit\Console_app\Console_app\bin\Debug\Console_app.exe.config
 C:\Git\my_reposit\Console_app\Console_app\bin\Debug\Console_app.exe
 C:\Git\my_reposit\Console_app\Console_app\bin\Debug\Console_app.pdb
+<<<<<<< HEAD
+=======
+C:\Git\my_reposit\Console_app\Console_app\obj\Debug\Console_app.csprojResolveAssemblyReference.cache
+>>>>>>> multiply
 C:\Git\my_reposit\Console_app\Console_app\obj\Debug\Console_app.exe
 C:\Git\my_reposit\Console_app\Console_app\obj\Debug\Console_app.pdb

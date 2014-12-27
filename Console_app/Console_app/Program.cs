@@ -10,12 +10,26 @@ namespace Console_app
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             int x, y, w;
             string s;
             Console.WriteLine("Ievadi x: "); s = Console.ReadLine(); x = int.Parse(s);
             Console.WriteLine("Ievadi y: "); s = Console.ReadLine(); y = int.Parse(s);
             w = x + y;
             Console.WriteLine("x un y summa ir: {0}", w);
+=======
+            int x, y, z;
+            string s;
+            Console.WriteLine("Ievadi x: "); s = Console.ReadLine(); x = int.Parse(s);
+            Console.WriteLine("Ievadi y: "); s = Console.ReadLine(); y = int.Parse(s);
+            z = x * y;
+
+            while (z >= 1)
+            {
+                Console.Write("*");
+                z--;
+            }
+>>>>>>> multiply
             Console.ReadLine();
         }
     }
